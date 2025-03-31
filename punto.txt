@@ -1,0 +1,7 @@
+Punto di arrivo: pg. 61, cap. 2
+
+Domande: 
+Come posso implementare la matrice di precisione per poter calcolare le dipendenze condizionate 
+fra coppie di attributi?
+Come posso implementare la matrice di correlazione per poter calcolare le dipendenze incondizionate 
+fra attributi?
