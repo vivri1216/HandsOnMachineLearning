@@ -1,4 +1,7 @@
-Punto di arrivo: pg. 61, cap. 2
+Punto di arrivo: pg. 72, cap. 
+
+Da rivedere:
+pg 64-65: punto su Scikit-Learn design
 
 Domande: 
 Come posso implementare la matrice di precisione per poter calcolare le dipendenze condizionate 
