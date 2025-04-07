@@ -1,4 +1,5 @@
-Punto di arrivo: capitolo 3 
+Punto di arrivo: capitolo 4
+Fare esercizi capitolo 3 
 
 Da rivedere:
 pg 64-65: punto su Scikit-Learn design
