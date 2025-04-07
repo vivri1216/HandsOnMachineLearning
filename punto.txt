@@ -1,4 +1,4 @@
-Punto di arrivo: pg. 72, cap. 
+Punto di arrivo: capitolo 3 
 
 Da rivedere:
 pg 64-65: punto su Scikit-Learn design
