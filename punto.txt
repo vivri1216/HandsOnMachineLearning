@@ -1,5 +1,7 @@
-Punto di arrivo: capitolo 4
+Punto di arrivo: capitolo 5
 Fare esercizi capitolo 3 
+Fare esercizi capitolo 4
+Guardare documentazione softmax regression (ch4_inFondo)
 
 Da rivedere:
 pg 64-65: punto su Scikit-Learn design
