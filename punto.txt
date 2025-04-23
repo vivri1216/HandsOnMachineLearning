@@ -1,13 +1,3 @@
-Punto di arrivo: capitolo 5
-Fare esercizi capitolo 3 
-Fare esercizi capitolo 4
-Guardare documentazione softmax regression (ch4_inFondo)
-
-Da rivedere:
-pg 64-65: punto su Scikit-Learn design
-
-Domande: 
-Come posso implementare la matrice di precisione per poter calcolare le dipendenze condizionate 
-fra coppie di attributi?
-Come posso implementare la matrice di correlazione per poter calcolare le dipendenze incondizionate 
-fra attributi?
+- nearest neighbours regression and classification
+- linear and logisi regression
+- regularized linear models
