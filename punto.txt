@@ -1,3 +1,0 @@
-- nearest neighbours regression and classification
-- linear and logisi regression
-- regularized linear models
