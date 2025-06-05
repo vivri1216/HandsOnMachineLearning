@@ -19,3 +19,7 @@ Per trovare il PDF gratuito del libro di James & co.
 - http://ema.cri-info.cm/wp-content/uploads/2019/07/2019BurkovTheHundred-pageMachineLearning.pdf
 Per trovare il libro di Burkov.
 
+Per quanto riguarda le reti neurali che vengono trattate in maniera tutt'altro che easuriente nella cartella dedicata, si invita chi legge a dare un'occhiata ai seguenti link: 
+- **Tensorflow Hub** Qui e possibile scaricare e testare reti neurali gia allenate
+- **Tensorflow model su gutHub** La pagina GitHub di tensorflow e molto animata e piena di codice, progetti implementati con Keras ed anche dritte su come utilizzare al meglio questa API
+
